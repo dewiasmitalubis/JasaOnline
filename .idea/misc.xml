@@ -3,7 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/button_style1.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/button_style2.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/button_style3.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/button_style4.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/edittextstyle1.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/edittextstyle2.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/ic_icons8_facebook.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/ic_icons8_linkedin.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/ic_icons8_twitter.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/linestyle.xml" value="0.10729166666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/drawable/repeat_background.xml" value="0.21197916666666666" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/layout/activity_edit_profile.xml" value="0.2" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/layout/activity_main.xml" value="0.18177083333333333" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/layout/activity_splash_screen.xml" value="0.19583333333333333" />
         <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/layout/content_main.xml" value="0.19583333333333333" />
         <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/layout/fragment_beranda.xml" value="0.19583333333333333" />
         <entry key="..\:/Dewi Asmita Lubis/JasaOnline/app/src/main/res/layout/fragment_jasa.xml" value="0.18177083333333333" />
